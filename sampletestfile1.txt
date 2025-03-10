@@ -4,4 +4,4 @@ Creating our first training project.
 this is comparison
 
 Git and Github training.
-
+Stash lec ongoing.
